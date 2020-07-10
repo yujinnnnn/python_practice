@@ -1,5 +1,5 @@
 from tkinter import *
-class Profit:
+class Profit: 
     name=";rate 0.0; money=0; interest=0.0; total=0.0"
     def cal(self):
         self.interest= float(text1.get())
