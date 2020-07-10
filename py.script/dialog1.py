@@ -1,6 +1,6 @@
 from tkinter import * 
 from tkinter.simpledialog import *
-
+ 
 window=Tk()
 window.geometry("500x500")
 
